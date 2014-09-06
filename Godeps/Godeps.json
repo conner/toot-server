@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/conner/toot-server",
+	"GoVersion": "go1.3",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Rev": "6db904312c78e5595a8d48c6b74fce77f407a33a"
+		}
+	]
+}
